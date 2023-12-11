@@ -1,6 +1,6 @@
 ![Well Representation](Oil.png "Title")
 
-# Lithology Classificaiton 
+# Lithology Classificaiton Machine
 
 ### Objective
 The purpose of this project is to use Machine Learning algorithms to predict lithographic Vp values
